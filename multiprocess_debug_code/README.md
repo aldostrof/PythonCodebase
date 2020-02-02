@@ -16,7 +16,9 @@ and run the main.py file with command:
 $ python main.py
 ```
 This will spawn a new process executing the execute.process_identifier() function.
+
 This function contains a breakpoint.
+
 Thus, upon giving the command, the execution will stop at the predefined breakpoint
 with the message "Waiting for debugger attach".
 
