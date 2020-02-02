@@ -10,7 +10,7 @@ of vscode.
 put yourself in the right environment.
 
 * Open an integrated terminal into the active workspace by going to
-View>Command Palette> then type "Terminal: Create New Integrated Terminal (In Active Workspace)
+View>Command Palette> then type "Terminal: Create New Integrated Terminal (In Active Workspace)"
 and run the main.py file with command: 
 ```console
 $ python main.py
