@@ -34,7 +34,8 @@ it should look like this:
     }
 ```
 5678 is the port at which the debugger should attach.
+
 After starting the main.py, go in the debug section of vscode, then in the upper dropdown list
 select the configuration "Python: Attach" you just set up.
-3) Click play: the debugger should detect the waiting process, and you will see the breakpoint set.
+* Click play: the debugger should detect the waiting process, and you will see the breakpoint set.
 Note that any print output which is after the breakpoint will be shown in terminal window.
