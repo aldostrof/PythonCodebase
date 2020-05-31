@@ -4,7 +4,7 @@ This is an example on how to setup and run a TCP socket (both client and server)
 
 ### Instructions
 
-* First of all, you can open the code workspace file contained in the directory in order to
+* First of all, you can open the **tcp_sockets.code-workspace** file contained in the directory in order to
 put yourself in the right environment.
 
 * To execute the **TCP Client** code, open an integrated terminal into the active workspace by going to
