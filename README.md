@@ -17,5 +17,5 @@ execute it.
 * [**CLI_template**](./CLI_template): a template implementation of a fully customizable CLI program.
 
 ## TODO
-[ ] - Check documentation for Telegram Bot
-[ ] - Check documentation + implementation for Demo_BT
+* Check documentation for Telegram Bot
+* Check documentation + implementation for Demo_BT
