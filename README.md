@@ -6,8 +6,6 @@ Each snippet/example is contained in its own directory with its own
 readme file to explain what it does and what you have to do to
 execute it.
 
-**Python version is 3.8.**
-
 ## Contents
 
 
@@ -17,3 +15,7 @@ execute it.
 * [**demo_BT**](./demo_BT): some examples showing various Bluetooth Libraries usage examples (on Raspberry Pi).
 * [**telegram_bot**](./telegram_bot): an example (template) implementation of a Telegram Bot.
 * [**CLI_template**](./CLI_template): a template implementation of a fully customizable CLI program.
+
+## TODO
+[ ] - Check documentation for Telegram Bot
+[ ] - Check documentation + implementation for Demo_BT
