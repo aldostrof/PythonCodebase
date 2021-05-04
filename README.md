@@ -19,3 +19,4 @@ execute it.
 ## TODO
 * Check documentation for Telegram Bot
 * Check documentation + implementation for Demo_BT
+* Add documentation for auto mailer
