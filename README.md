@@ -15,6 +15,7 @@ execute it.
 * [**demo_BT**](./demo_BT): some examples showing various Bluetooth Libraries usage examples (on Raspberry Pi).
 * [**telegram_bot**](./telegram_bot): an example (template) implementation of a Telegram Bot.
 * [**CLI_template**](./CLI_template): a template implementation of a fully customizable CLI program.
+* [**auto_mailer**](./auto_mailer): a configurable script which sends an email and can be automatized using cron on any Linux-based system.
 
 ## TODO
 * Check documentation for Telegram Bot
